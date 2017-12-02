@@ -8,4 +8,4 @@ this is a chrome extension to show an error message when there are any pull requ
 2. open the developer mode and Load unpacked extension
 3. select the directory of the prod dir
 
-![]()
+![how to use](https://github.com/gaoxingliang/jira-extension/blob/master/prod/howto.png)
